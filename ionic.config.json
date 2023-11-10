@@ -1,0 +1,8 @@
+{
+  "name": "SB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c1c79ac5"
+}
